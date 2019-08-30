@@ -4,7 +4,7 @@
 #
 Name     : mvn-kosmosfs
 Version  : 0.3
-Release  : 2
+Release  : 3
 URL      : https://github.com/rapoth/kosmosfs/archive/release-0.3.tar.gz
 Source0  : https://github.com/rapoth/kosmosfs/archive/release-0.3.tar.gz
 Source1  : https://repo1.maven.org/maven2/net/sf/kosmosfs/kfs/0.3/kfs-0.3.jar
